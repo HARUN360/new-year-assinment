@@ -93,8 +93,8 @@ a {
 /* header section end */
 
 
-/* main part start */
 
+/* main part start */
 /* welcome part start */
 .wellcome-part {
     width: 1200px;
@@ -594,7 +594,7 @@ p.fotter-des img {
     margin-right: 81px;
     background-color: #F00;
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 6px;
     border: none;
     outline: none;
     padding: 10px 15px;
