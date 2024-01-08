@@ -93,11 +93,6 @@ a {
 
 /* discunt-section end */
 /* main part start */
-main section {
-    /* background-color: #FFEAEA;
-    margin: 20px 30px; */
-}
-
 .wellcome-part {
     width: 1200px;
     height: 600px;
@@ -171,15 +166,16 @@ main section {
 }
 
 /* joinig section start */
-.join{
+.join {
     margin: 60px 30px;
     padding: 50px 0px;
     background-color: #FFE8E8;
     border-radius: 2%;
 }
+
 .join-main {
     text-align: center;
-   
+
 }
 
 .join-title {
@@ -192,10 +188,12 @@ main section {
     text-transform: capitalize;
     padding: 5px 0px;
 }
-span{
+
+span {
     color: #F00;
 }
-.btn-praimary2{
+
+.btn-praimary2 {
     text-align: center;
     font-family: Inter;
     font-size: 19px;
@@ -208,12 +206,105 @@ span{
     transition: 0.3s;
     /* padding-top: 13px; */
 }
-.btn-praimary2 a{
+
+.btn-praimary2 a {
     color: #FFF;
 }
-.button{
+
+.button {
     padding-top: 20px;
 }
+
 /* joinig section end */
+
+/* comming section start */
+.comming {
+    margin: 60px 30px;
+    padding: 50px 0px;
+    border-radius: 2%;
+}
+
+.comming-main {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.comming-item {
+    /* padding-top: 50px; */
+    /* margin-right: 120px; */
+    width: 33.33%;
+    /* padding: 111px 0px; */
+    padding-top: 100px;
+}
+.ngcommi-title {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: left;
+}
+
+.comming-title2 {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    padding: 8px 0px;
+}
+
+.comming-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    /* margin-right: 99px; */
+}
+.comming-imag{
+
+    width: 33.33%;
+}
+.comming-last{
+
+    width: 33.33%;
+    padding-top: 160px;
+}
+.comming-imag {
+    border: 10px solid red;
+    border-radius: 50%;
+    padding: 35px;
+}
+
+.commming-img-2 img:hover{
+    border: 5px solid green;
+    border-radius: 50%;
+    padding: 0px;
+}
+.com-last-title{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 50px;
+}
+.com-last-description{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-left: 50px;
+    padding: 5px 0px;
+}
+.comming-last-img{
+    margin-left: 50px;
+    
+}
+/* comming section end */
 
 /* main part end */
