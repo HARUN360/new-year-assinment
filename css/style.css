@@ -602,9 +602,11 @@ p.fotter-des img {
 /* footer part end */
 
 /* cmmends */
+
 .commends{
     text-align: center;
     font-size: 18px;
     color: black;
     background:#FFE8E8 ;
+    padding: 0px 10px;
 }
