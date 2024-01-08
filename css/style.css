@@ -160,8 +160,8 @@ main section {
     background: transparent;
 }
 .welcome-img{
-    width: 100%;
+    width: 50%;
     padding-top: 70px;
-    padding-left: 216px;
+    padding-right: 100px;
 }
 /* main part end */
