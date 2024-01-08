@@ -350,17 +350,20 @@ span {
     line-height: 32px;
     margin: 10px 200px;
 }
+
 /* holiday part end */
 /* holy image start */
-#holiday-img{
+#holiday-img {
     margin: 60px 30px;
     padding: 300px 0px 20px 0px;
     border-radius: 2%;
 }
-.holiday-pstiton{
-    position: relative;   
+
+.holiday-pstiton {
+    position: relative;
 }
-.image-main-con{
+
+.image-main-con {
     position: absolute;
     /* top: -260px; */
     right: 295px;
@@ -370,44 +373,48 @@ span {
     right: 2px;
     width: 360px;
 }
+
 .holiday-woman {
     position: relative;
     height: 195px;
-  }
-  
-  .holiday-persent {
+}
+
+.holiday-persent {
     position: absolute;
     top: 70px;
     right: 294px;
     width: 250px;
-  }
-  
-  .holiday-reac2 {
+}
+
+.holiday-reac2 {
     position: relative;
     width: 100%;
     height: 100pxpx;
-  }
-  
-  .holifay-grup75 {
+}
+
+.holifay-grup75 {
     position: absolute;
     width: 250px;
     left: 40px;
     bottom: 56px;
     width: 35%;
-  } 
+}
+
 /* holy image section end */
 /* portfolio part start */
-.portfolio-part{
+.portfolio-part {
     margin: 60px 30px;
     padding: 100px 0px;
 }
-.portfolio-title{
+
+.portfolio-title {
     color: #F00;
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
 }
-.portfolio-part-main{
+
+.portfolio-part-main {
     color: #070211;
     font-size: 46px;
     font-weight: 900;
@@ -415,7 +422,8 @@ span {
     margin-right: 630px;
     padding: 10px 0px;
 }
-.portfolio-description{
+
+.portfolio-description {
     color: #11121F;
     font-family: Inter;
     font-size: 18px;
@@ -423,26 +431,93 @@ span {
     line-height: 32px;
     margin-right: 400px;
 }
-.portfolio-img{
+
+.portfolio-img {
     display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 20px;
     padding-top: 30px;
 }
+
 .portfolio-img-item {
     gap: 20px;
     display: flex;
     flex-flow: column;
 }
+
 /* .portfolio-img-item img{
     transition: 0.2s;
 } */
-.portfolio-img-item img:hover{
+.portfolio-img-item img:hover {
     border: 2px solid black;
     border-radius: 4%;
 }
 
+/* subscriber part start */
+.subscriber {
+    margin: 60px 30px;
+    padding: 100px 0px;
+    background-color: #FFE8E8;
+    border-radius: 2%;
+}
+
+.subscriber-main {
+    text-align: center;
+}
+
+.subscriber-title {
+    margin: 20px 300px;
+    color: #070211;
+    font-size: 45px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.subscriber-description {
+    margin: 10px 174px;
+    color: #11121F;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.subscriber-btn {
+    text-align: center;
+    padding: 60px 0px 20px 0px;
+}
+
+input[type="text"] {
+    background: #FFF;
+    width: 340px;
+    height: 50px;
+    border: none;
+    outline: none;
+    padding: 0px 25px;
+    border-radius: 25px 0px 0px 25px;
+    font-size: 20px;
+}
+
+.btn-sub {
+    position: relative;
+    border-radius: 0px 25px 25px 0px;
+    width: 150px;
+    height: 50px;
+    border: none;
+    outline: none;
+    background: #FF0000;
+    color: #fff;
+    left: -5px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    text-transform: capitalize;
+    cursor: pointer;
+
+}
+
+/* subscriber part end */
 
 
 
@@ -451,7 +526,8 @@ span {
 /* portfolio part end */
 /* main part end */
 /* footer part start */
-.footer-main{
+.footer-main {
     padding: 20px 0px;
 }
+
 /* footer part end */
