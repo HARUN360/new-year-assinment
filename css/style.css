@@ -229,6 +229,7 @@ span {
     justify-content: center;
     gap: 20px;
 }
+
 .comming-item {
     /* padding-top: 50px; */
     /* margin-right: 120px; */
@@ -236,6 +237,7 @@ span {
     /* padding: 111px 0px; */
     padding-top: 100px;
 }
+
 .ngcommi-title {
     color: #F00;
     text-align: center;
@@ -263,27 +265,31 @@ span {
     line-height: 32px;
     /* margin-right: 99px; */
 }
-.comming-imag{
+
+.comming-imag {
 
     width: 33.33%;
 }
-.comming-last{
+
+.comming-last {
 
     width: 33.33%;
     padding-top: 160px;
 }
+
 .comming-imag {
     border: 10px solid red;
     border-radius: 50%;
     padding: 35px;
 }
 
-.commming-img-2 img:hover{
+.commming-img-2 img:hover {
     border: 5px solid green;
     border-radius: 50%;
     padding: 0px;
 }
-.com-last-title{
+
+.com-last-title {
     color: #F00;
     font-family: Inter;
     font-size: 48px;
@@ -292,7 +298,8 @@ span {
     line-height: normal;
     margin-left: 50px;
 }
-.com-last-description{
+
+.com-last-description {
     color: rgba(7, 2, 17, 0.60);
     font-family: Inter;
     font-size: 20px;
@@ -301,10 +308,106 @@ span {
     margin-left: 50px;
     padding: 5px 0px;
 }
-.comming-last-img{
+
+.comming-last-img {
     margin-left: 50px;
-    
+
 }
+
 /* comming section end */
+
+/* holiday part start */
+.holiday {
+    margin: 60px 30px;
+    padding: 50px 0px;
+}
+
+.holiday-main {
+    text-align: center;
+}
+
+.holiday-taitle {
+    color: #070211;
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.holiday-main-taitle {
+    color: #F00;
+    text-align: center;
+    font-size: 65px;
+    font-weight: 900;
+    margin: 15px 0px;
+}
+
+.holiday-description {
+    color: #11121F;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    margin: 10px 200px;
+}
+/* holiday part end */
+/* holy image start */
+#holiday-img{
+    margin: 60px 30px;
+    padding: 300px 0px 20px 0px;
+    border-radius: 2%;
+}
+/* .holy-dis{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+} */
+
+.holiday-pstiton{
+    position: relative;   
+}
+.image-main-con{
+    position: absolute;
+    /* top: -260px; */
+    right: 295px;
+    width: 250px;
+    bottom: 381px;
+    /* left: 10px; */
+    right: 2px;
+    width: 360px;
+}
+.holiday-woman {
+    position: relative;
+    height: 195px;
+  }
+  
+  .holiday-persent {
+    position: absolute;
+    top: 70px;
+    right: 294px;
+    width: 250px;
+  }
+  
+  .holiday-reac2 {
+    position: relative;
+    width: 100%;
+    height: 100pxpx;
+  }
+  
+  .holifay-grup75 {
+    position: absolute;
+    width: 250px;
+    left: 40px;
+    bottom: 56px;
+    width: 35%;
+  }
+  
+
+
+
+
+
+
+/* holy image section end */
 
 /* main part end */
